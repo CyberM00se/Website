@@ -3,6 +3,6 @@ main:
   - title: "Blog Posts"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /_pages/about.md
   - title: "Contact Me"
-    url: /year-archive/
+    url: /_pages/year-archive.md
