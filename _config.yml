@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Noah Beckman Security Advising"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Noah"
+name                     : "Noah Beckman"
 description              : "Technical and Physical Security advising to defend and protect your  buisness"
 url                      : "http://noahbeckman.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -94,10 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Noah"
+  name             : "Noah Beckman"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Everywhere"
+  bio              : "CEO, Entrepreneur"
+  location         : "Everywhere and Nowhere"
   email            : "noahbeckman.buisness@gmail.com"
   links:
     - label: "Email"
