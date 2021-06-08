@@ -4,5 +4,3 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /_pages/about.md
-  - title: "Contact Me"
-    url: /_pages/year-archive.md
