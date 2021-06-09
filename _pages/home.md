@@ -2,7 +2,7 @@
 permalink: /home/
 title: "Home"
 
-layout: splash
+layout: home
 collection: portfolio
 entries_layout: grid
 
