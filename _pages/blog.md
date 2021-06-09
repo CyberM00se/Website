@@ -3,8 +3,8 @@
 permalink: /blog/
 title: "blog"
 layout: simple
-collection: portfolio
-entries_layout: grid
+# collection: portfolio
+# entries_layout: grid
 
 ---
 
