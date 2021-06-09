@@ -2,7 +2,10 @@
 
 permalink: /blog/
 title: "Blog"
-layout: single
+layout: home
+
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
 
 ---
 
