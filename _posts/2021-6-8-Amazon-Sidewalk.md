@@ -8,12 +8,14 @@ tags:
   - Vulnerabilities
   - Data Protection
 
-
-overlay_image: /assets/images/cyberheader.jpg
-overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-caption: "Photo credit: [**region10**](https://www.region10.org/programs/cybersecurity/overview/)"
-excerpt: "With Amazon still on the Rise..."  
-
+excerpt: "With Amazon still on the Rise..."
+header:
+  overlay_image: /assets/images/cyberheader.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**region10**](https://www.region10.org/programs/cybersecurity/overview/)"
+    
 ---
 
-Yolo Amzon is stink
+Yolo Amzon is stink.
+
+Amazon is now doing things with wifi.
