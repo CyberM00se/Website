@@ -1,6 +1,9 @@
 ---
+
 permalink: /blog/
 title: "Blog"
+layout: home
+
 ---
 
 Asi Asi Asiii
