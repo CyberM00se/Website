@@ -9,10 +9,9 @@ tags:
   - Data Protection
 
 
-header:
-  overlay_image: /assets/images/cyberheader.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**region10**](https://www.region10.org/programs/cybersecurity/overview/)"
+overlay_image: /assets/images/cyberheader.jpg
+overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+caption: "Photo credit: [**region10**](https://www.region10.org/programs/cybersecurity/overview/)"
 excerpt: "With Amazon still on the Rise..."  
 
 ---
