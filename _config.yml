@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Noah Beckman"
 description              : "Technical and Physical Security advising to defend and protect your buisness"
 url                      : "http://noahbeckman.com"
-baseurl                  : "/home"
+baseurl                  : #"/home"
 repository               : "mmistakes/minimal-mistakes"
 teaser                   : # "/assets/images/cyberheader.jpg"
 logo                     : # "/assets/images/88x88.png"
