@@ -1,8 +1,8 @@
 ---
 defaults:
   # _pages
-  - scope:
-      path: ""
+  - scope:_
+      path: "/_pages/blog.md"
       type: pages
     values:
       layout: single
