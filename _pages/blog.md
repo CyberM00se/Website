@@ -1,12 +1,12 @@
 ---
-
-permalink: /blog/
-title: "blog"
-layout: simple
-# collection: portfolio
-# entries_layout: grid
-
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 ---
 
-q
 hey hey hey
