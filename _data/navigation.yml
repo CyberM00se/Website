@@ -4,5 +4,5 @@ main:
     url: /blog/
   - title: "About"
     url: /about/
-  - title: "splash"
-    url: /docs/_pages/splash-page.md
+  - title: "Contact Me"
+    url: /about/
