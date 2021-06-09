@@ -2,7 +2,7 @@
 
 permalink: /blog/
 title: "Blog"
-layout: simple
+layout: single
 
 ---
 
