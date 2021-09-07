@@ -7,3 +7,10 @@ toc_icon: "cog"
 ---
 
 These are my tech notes
+
+# Big top
+## sub
+### bottom
+### Heading
+# Heading
+## Heading
