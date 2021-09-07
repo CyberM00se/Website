@@ -4,12 +4,9 @@ title: "Tech Notes"
 toc: true
 toc_label: "Table for net"
 ---
-
-These are my tech notes
-
 # Big top
 agahsldkjfglkhg
-
+These are my tech notes
 ## sub
 
 submariens f
