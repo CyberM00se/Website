@@ -22,3 +22,5 @@ The introduction set out the framework for the concept of this reading. Appiah d
 a
 ## Heading
 The introduction set out the framework for the concept of this reading. Appiah discusses the importance of accepting others and their values. Appiah also states the importance of being in a group and being able to smoothly navigate through other groups. According to Voltaire, “Cosmopolitans “are one big family. It is important to understand each other’s differences and move past them.
+
+{% include toc icon="cog" title="My Table of Contents" %}
