@@ -4,6 +4,7 @@ title: "Tech Notes"
 
 toc: true
 toc_label: "Table for net"
+toc_sticky: false
 
 ---
 {% include toc icon="cog" title="Notes Table" %}
