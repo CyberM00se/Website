@@ -2,9 +2,10 @@
 main:
   - title: "Blog Posts"
     url: /blog/
+  - title: "Tech Notes"
+    url: /technotes/
   - title: "About"
     url: /about/
   - title: "Contact Me"
     url: /about/
-  - title: "Tech Notes"
-    url: /technotes/
+
